@@ -1,2 +1,2 @@
 # WebScraping-Reddit-old-Python
-This is a project I made to learn webscraping and analytics.
+This is a project I self-initiated to learn webscraping and analytics.
